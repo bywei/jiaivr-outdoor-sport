@@ -5,11 +5,11 @@ A outdoor sport website, 因特殊原因源码请联系作者获取。
 http://www.jiaivr.com
 
 # 效果图
-![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr1.jpg)
-![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr2.jpg)
-![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr3.jpg)
-![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr4.jpg)
-![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr5.jpg)
+![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr1.png)
+![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr2.png)
+![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr3.png)
+![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr4.png)
+![screenshot](https://github.com/bywei/jiaivr-outdoor-sport/raw/master/Screenshots/jiaivr5.png)
 
 
 ## 关于作者
